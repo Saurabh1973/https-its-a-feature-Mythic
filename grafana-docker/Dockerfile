@@ -1,1 +1,1 @@
-From grafana/grafana
+From grafana/grafana:10.2.3-ubuntu
